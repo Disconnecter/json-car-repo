@@ -1,0 +1,15 @@
+{
+title: "Toyota Corolla",
+productionDates: "1966–present",
+bodyStyles: [
+"4-door sedan",
+"5-door hatchback",
+"5-door station wagon"
+],
+engines: [
+"1.8L I4",
+"2.0L I4",
+"1.8L hybrid"
+],
+wheelbase: "2700 mm"
+}
