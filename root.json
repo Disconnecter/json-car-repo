@@ -1,61 +1,61 @@
 {
     "title": "Car Models Collection",
     "version": "1.0",
-    "href": "https://example.com/car-models",
+    "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main",
     "results": [
         {
             "title": "Toyota Corolla",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/corolla.json",
+            "href": "/corolla.json",
             "description": "The Toyota Corolla is a compact car that has been popular for decades due to its reliability and fuel efficiency.",
-            "thumbnail": "https://placehold.co/600x400/png?text=toyota-corolla"
+            "thumbnail": "/img/600x400/corolla.png"
         },
         {
             "title": "Tesla Model S",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/tesla.json",
+            "href": "/tesla.json",
             "description": "The Tesla Model S is an all-electric luxury sedan known for its groundbreaking technology and impressive performance.",
-            "thumbnail": "https://placehold.co/600x400/png?text=tesla-model-s"
+            "thumbnail": "/img/600x400/bmw.png"
         },
         {
             "title": "Ford F-150",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/ford.json",
+            "href": "/ford.json",
             "description": "The Ford F-150 is a full-size pickup truck that is consistently one of the best-selling vehicles in the United States.",
-            "thumbnail": "https://placehold.co/600x400/png?text=ford-f150"
+            "thumbnail": "/img/600x400/ford.png"
         },
         {
             "title": "Honda Civic",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/honda.json",
+            "href": "/honda.json",
             "description": "The Honda Civic is a popular compact car known for its reliability, fuel efficiency, and sporty design.",
-            "thumbnail": "https://placehold.co/600x400/png?text=honda-civic"
+            "thumbnail": "/img/600x400/honda.png"
         },
         {
             "title": "Chevrolet Camaro",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/camaro.json",
+            "href": "/camaro.json",
             "description": "The Chevrolet Camaro is a classic American muscle car known for its powerful performance and iconic design.",
-            "thumbnail": "https://placehold.co/600x400/png?text=chevrolet-camaro"
+            "thumbnail": "/img/600x400/camaro.png"
         },
         {
             "title": "Jeep Wrangler",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/wrangler.json",
+            "href": "/wrangler.json",
             "description": "The Jeep Wrangler is a rugged SUV known for its off-road capability and iconic design.",
-            "thumbnail": "https://placehold.co/600x400/png?text=jeep-wrangler"
+            "thumbnail": "/img/600x400/jeep.png"
         },
         {
             "title": "BMW 3 Series",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/bmw.json",
+            "href": "/bmw.json",
             "description": "The BMW 3 Series is a luxury compact car known for its sporty handling and upscale interior.",
-            "thumbnail": "https://placehold.co/600x400/png?text=bmw-3-series"
+            "thumbnail": "/img/600x400/bmw.png"
         },
         {
             "title": "Mercedes-Benz E-Class",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/mercedes.json",
+            "href": "/mercedes.json",
             "description": "The Mercedes-Benz E-Class is a luxury midsize car known for its refined interior, advanced technology, and comfortable ride.",
-            "thumbnail": "https://placehold.co/600x400/png?text=mercedes-e-class"
+            "thumbnail": "/img/600x400/mercedes.png"
         },
         {
             "title": "Audi Q5",
-            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/audi.json",
+            "href": "/audi.json",
             "description": "The Audi Q5 is a luxury compact SUV known for its elegant design, upscale interior, and strong performance.",
-            "thumbnail": "https://placehold.co/600x400/png?text=audi-q5"
+            "thumbnail": "/img/600x400/audi.png"
         }
     ]
 }
