@@ -5,55 +5,55 @@
     "results": [
         {
             "title": "Toyota Corolla",
-            "href": "https://jsonkeeper.com/b/CLDK",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/corolla.json",
             "description": "The Toyota Corolla is a compact car that has been popular for decades due to its reliability and fuel efficiency.",
             "thumbnail": "https://placehold.co/600x400/png?text=toyota-corolla"
         },
         {
             "title": "Tesla Model S",
-            "href": "https://jsonkeeper.com/b/NUCV",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/tesla.json",
             "description": "The Tesla Model S is an all-electric luxury sedan known for its groundbreaking technology and impressive performance.",
             "thumbnail": "https://placehold.co/600x400/png?text=tesla-model-s"
         },
         {
             "title": "Ford F-150",
-            "href": "https://jsonkeeper.com/b/XI71",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/ford.json",
             "description": "The Ford F-150 is a full-size pickup truck that is consistently one of the best-selling vehicles in the United States.",
             "thumbnail": "https://placehold.co/600x400/png?text=ford-f150"
         },
         {
             "title": "Honda Civic",
-            "href": "https://jsonkeeper.com/b/95XV",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/honda.json",
             "description": "The Honda Civic is a popular compact car known for its reliability, fuel efficiency, and sporty design.",
             "thumbnail": "https://placehold.co/600x400/png?text=honda-civic"
         },
         {
             "title": "Chevrolet Camaro",
-            "href": " https://jsonkeeper.com/b/BZBM",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/camaro.json",
             "description": "The Chevrolet Camaro is a classic American muscle car known for its powerful performance and iconic design.",
             "thumbnail": "https://placehold.co/600x400/png?text=chevrolet-camaro"
         },
         {
             "title": "Jeep Wrangler",
-            "href": "https://jsonkeeper.com/b/MEJX",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/wrangler.json",
             "description": "The Jeep Wrangler is a rugged SUV known for its off-road capability and iconic design.",
             "thumbnail": "https://placehold.co/600x400/png?text=jeep-wrangler"
         },
         {
             "title": "BMW 3 Series",
-            "href": "https://jsonkeeper.com/b/5NBI",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/bmw.json",
             "description": "The BMW 3 Series is a luxury compact car known for its sporty handling and upscale interior.",
             "thumbnail": "https://placehold.co/600x400/png?text=bmw-3-series"
         },
         {
             "title": "Mercedes-Benz E-Class",
-            "href": "https://jsonkeeper.com/b/X9IJ",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/mercedes.json",
             "description": "The Mercedes-Benz E-Class is a luxury midsize car known for its refined interior, advanced technology, and comfortable ride.",
             "thumbnail": "https://placehold.co/600x400/png?text=mercedes-e-class"
         },
         {
             "title": "Audi Q5",
-            "href": "https://jsonkeeper.com/b/DX6H",
+            "href": "https://raw.githubusercontent.com/Disconnecter/json-car-repo/refs/heads/main/audi.json",
             "description": "The Audi Q5 is a luxury compact SUV known for its elegant design, upscale interior, and strong performance.",
             "thumbnail": "https://placehold.co/600x400/png?text=audi-q5"
         }
